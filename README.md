@@ -1,0 +1,1 @@
+This is the README file in order to put Gomix ro Github easiliy. 
